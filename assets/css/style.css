@@ -1747,18 +1747,18 @@ section {
   position: absolute;
   left: 20%;
 }
+
 .service  .overlay{
   position: absolute;
   right: 43%;
-  bottom: 3%;
+  bottom: 8%;
   border-radius: 50%;
-  /* transform: rotate(-20deg); */
   
 }
 .service .img-container2 {
   position: relative;
   overflow: hidden;
-  transform: rotate(-15deg);
+  transform: rotate(-5deg);
   left: 34%;
   top: 10%;
   /* background-color: #016cec; */
@@ -1770,7 +1770,7 @@ section {
 .service   .overlay2{
   position: absolute;
    right:10%; 
-  bottom: 6%; 
+  bottom: 8%; 
   border-radius: 50%; 
   transform: rotate(-20deg);
   
@@ -1781,6 +1781,15 @@ section {
   bottom: 6%; 
   border-radius: 50%; 
   transform: rotate(-20deg);
+  
+}
+.service  .overlay4{
+  position: absolute;
+  right:10%; 
+  bottom: 10%; 
+  border-radius: 50%;
+  transform: rotate(-20deg);
+
   
 }
 .service  p{
